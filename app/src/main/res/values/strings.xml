@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">trendingrepository</string>
+    <string name="app_name">Trending Repository</string>
+    <string name="search">Search</string>
 </resources>
